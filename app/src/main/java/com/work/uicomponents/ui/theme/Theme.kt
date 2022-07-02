@@ -37,7 +37,7 @@ fun UIComponentsTheme(darkTheme: Boolean = isSystemInDarkTheme(), content: @Comp
 
     MaterialTheme(
         colors = colors,
-        typography = Typography,
+        typography = ArchivoTypography,
         shapes = Shapes,
         content = content
     )
